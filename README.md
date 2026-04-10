@@ -1,6 +1,5 @@
-este proyecto es para hacer una pagina de pokemon en HTML
-revisen el grupo para comuncicar avances 
-los cambios hay que avisarlos
+El presente proyecto tiene como finalidad el desarrollo de una página web temática de Pokémon empleando el lenguaje de marcado HTML.
 
+Se solicita a todos los integrantes del equipo mantener una revisión constante de los canales de comunicación establecidos, a fin de informar oportunamente los avances correspondientes. De igual manera, cualquier modificación realizada en el proyecto deberá ser debidamente notificada al resto del equipo.
 
-Trabajar en casa si es posible
+Se recomienda, en la medida de lo posible, llevar a cabo las actividades asignadas desde el domicilio.
